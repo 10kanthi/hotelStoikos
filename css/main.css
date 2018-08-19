@@ -288,17 +288,18 @@
 }
 
 .rooms img {
+
     width: 100%;
     display: block;
     transition: opacity 2s ease, transform 2s ease;
 
 }
 
-.rooms img:hover {
+/* .rooms img:hover {
     opacity: 0.6;
     cursor: pointer;
     transform: scale(1.4);
-}
+} */
 
 /* @media screen and (min-width:576px) {
 
